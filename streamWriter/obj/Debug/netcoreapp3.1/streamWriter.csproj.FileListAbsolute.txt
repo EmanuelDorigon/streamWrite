@@ -1,0 +1,11 @@
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.exe
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.deps.json
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.runtimeconfig.json
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.runtimeconfig.dev.json
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.dll
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\bin\Debug\netcoreapp3.1\streamWriter.pdb
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\obj\Debug\netcoreapp3.1\streamWriter.csprojAssemblyReference.cache
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\obj\Debug\netcoreapp3.1\streamWriter.AssemblyInfoInputs.cache
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\obj\Debug\netcoreapp3.1\streamWriter.AssemblyInfo.cs
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\obj\Debug\netcoreapp3.1\streamWriter.dll
+C:\Users\Emanuel\OneDrive - Universidade Federal do Rio Grande do Sul\Cources and others\C#\Projetos\streamWriter\streamWriter\obj\Debug\netcoreapp3.1\streamWriter.pdb
